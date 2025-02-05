@@ -1,0 +1,4 @@
+Copyright (C) {name} <{email}> - All Rights Reserved
+Written by: {name(s)}
+
+(i): {project} can not be copied and/or distributed without the express permission of {name}.
